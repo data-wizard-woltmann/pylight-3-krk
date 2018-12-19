@@ -1,0 +1,247 @@
+
+
+
+New Horizons is a NASA space probe launched to study the dwarf planet Pluto, its moons and one or two other Kuiper belt objects, depending on which are in position to be explored. Part of the New Frontiers program, the mission was approved in 2001 after cancellation of Pluto Fast Flyby and Pluto Kuiper Express. The mission profile was proposed by a team led by principal investigator Alan Stern of Southwest Research Institute. After several delays on the launch site, New Horizons was launched on 19 January 2006 from Cape Canaveral, directly into an Earth-and-solar-escape trajectory with an Earth-relative speed of about 16.26 kilometers per second (58,536 km/h; 36,373 mph); it set the record for the highest launch speed of a human-made object from Earth. New Horizons should perform a flyby of the Pluto system on 14 July 2015.
+
+After a brief encounter with asteroid 132524 APL, New Horizons proceeded to Jupiter, making its closest approach on 28 February 2007 at a distance of 2.3 million kilometers (1.4 million miles). The Jupiter flyby provided a gravity assist that increased New Horizons' speed by 4 km/s (14,000 km/h; 9,000 mph). The encounter was also used as a general test of New Horizons' scientific capabilities, returning data about the planet's atmosphere, moons and magnetosphere. After Jupiter, the probe continued toward Pluto. Much of the post-Jupiter voyage has been spent in hibernation mode to preserve onboard systems. New Horizons photographed Pluto for the first time in September 2006, followed by an image that distinguished Pluto and its moon Charon as two separate objects in July 2013. Radio signals take more than 4 hours to travel to the spacecraft from Earth.
+
+
+Background
+
+New Horizons is the first mission in NASA's New Frontiers mission category, larger and more expensive than the Discovery missions but smaller than the Flagship Program. The cost of the mission (including spacecraft and instrument development, launch vehicle, mission operations, data analysis, and education/public outreach) is approximately $650 million over 15 years (2001–2016). An earlier proposed Pluto mission—Pluto Kuiper Express—was cancelled by NASA in 2000 for budgetary reasons. After a three month concept study, NASA announced on 8 June 2001 that of the two competing design proposals, New Horizons and POSSE (Pluto and Outer Solar System Explorer), New Horizons will proceed with preliminary design studies for a Pluto flyby mission.[1]
+
+The spacecraft was built primarily by Southwest Research Institute (SwRI) and the Johns Hopkins Applied Physics Laboratory. The mission's principal investigator is Alan Stern of the Southwest Research Institute (formerly NASA Associate Administrator).
+
+Overall control after separation from the launch vehicle is performed at Mission Operations Center (MOC) at the Applied Physics Laboratory. The science instruments are operated at Clyde Tombaugh Science Operations Center (T-SOC) in Boulder, Colorado.[2] Navigation, which is not real-time, is performed at various contractor facilities, while the navigational positional data and related celestial reference frames are provided by the Naval Observatory Flagstaff Station through Headquarters NASA and JPL; KinetX is the lead on the New Horizons navigation team and is responsible for planning trajectory adjustments as the spacecraft speeds toward the outer Solar System.
+
+New Horizons was originally planned as a voyage to the only unexplored planet in the Solar System. When the spacecraft was launched, Pluto was still classified as a planet, later to be reclassified as a dwarf planet by the International Astronomical Union (IAU). Some members of the New Horizons team, including Alan Stern, disagree with the IAU definition and still describe Pluto as the ninth planet.[3]  Pluto's satellites Nix and Hydra also have a connection with the spacecraft: the first letters of their names (N and H) are the initials of New Horizons. The moons' discoverers chose these names for this reason, plus Nix and Hydra's relationship to the mythological Pluto.[4]
+
+In addition to the science equipment, there are several cultural artifacts traveling with the spacecraft. These include a collection of 434,738 names stored on a compact disc,[5] a piece of Scaled Composites SpaceShipOne,[6] and a flag of the USA, along with other mementos.[7]
+
+About an ounce of  Clyde Tombaugh's ashes are aboard the spacecraft, to commemorate his discovery of Pluto in 1930.[8][9] A Florida-state quarter coin, whose design commemorates human exploration, is included, officially as a trim weight.[10] One of the science packages (a dust counter) is named after Venetia Burney, who, as a child, suggested the name "Pluto" after the planet's discovery.
+
+
+Design and construction
+
+Spacecraft subsystems
+
+The spacecraft is comparable in size and general shape to a grand piano and has been compared to a piano glued to a cocktail bar-sized satellite dish.[11] As a point of departure, the team took inspiration from the Ulysses spacecraft,[12] which also carried a radioisotope thermoelectric generator (RTG) and dish on a box-in-box structure through the outer Solar System. Many subsystems and components have flight heritage from APL's CONTOUR spacecraft, which in turn had heritage from APL's TIMED spacecraft.
+
+The spacecraft's body forms a triangle, almost 0.76 m (2.5 ft) thick. (The Pioneers have hexagonal bodies, while the Voyagers, Galileo, and Cassini–Huygens have decagonal, hollow bodies.) A 7075 aluminium alloy tube forms the main structural column, between the launch vehicle adapter ring at the "rear," and the 2.1 m (6 ft 11 in) radio dish antenna affixed to the "front" flat side. The titanium fuel tank is in this tube. The RTG attaches with a 4-sided titanium mount resembling a grey pyramid or stepstool. Titanium provides strength and thermal isolation. The rest of the triangle is primarily sandwich panels of thin aluminium facesheet (less than 1⁄64 in or 0.40 mm) bonded to aluminium honeycomb core. The structure is larger than strictly necessary, with empty space inside. The structure is designed to act as shielding, reducing electronics errors caused by radiation from the RTG. Also, the mass distribution required for a spinning spacecraft demands a wider triangle.
+
+Internally, the structure is painted black. This equalizes temperature by radiative heat transfer. Overall, the spacecraft is thoroughly blanketed to retain heat. Unlike the Pioneers and Voyagers, the radio dish is also enclosed in blankets which extend to the body. The heat from the RTG also adds warmth to the spacecraft in the outer Solar System. In the inner Solar System, the spacecraft must prevent overheating. Electronic activity is limited, power is diverted to shunts with attached radiators, and louvers are opened to radiate excess heat. Then, when the spacecraft is cruising inactively in the cold outer Solar System, the louvers are closed, and the shunt regulator reroutes power to electric heaters.
+
+
+Propulsion and attitude control
+
+New Horizons has both spin-stabilized (cruise) and three-axis stabilized (science) modes controlled entirely with hydrazine monopropellant. Additional post launch delta-v of over 290 m/s (1,000 km/h; 650 mph) is provided by a  77 kg (170 lb) internal tank. Helium is used as a pressurant, with an elastomeric diaphragm assisting expulsion. The spacecraft's on-orbit mass including fuel is over 470 kg (1,040 lb) on the Jupiter flyby trajectory, but would have been only 445 kg (981 lb) for the backup direct flight option to Pluto. Significantly, had the backup option been taken, this would have meant less fuel for later Kuiper belt operations.
+
+There are 16 thrusters on New Horizons: four 4.4 N (1.0 lbf) and twelve 0.9 N (0.2 lbf) plumbed into redundant branches. The larger thrusters are used primarily for trajectory corrections, and the small ones (previously used on Cassini and the Voyager spacecraft) are used primarily for attitude control and spinup/spindown maneuvers. Two star cameras (from Galileo Avionica) are used for fine attitude control. They are mounted on the face of the spacecraft and provide attitude information while in spin-stabilized or 3-axis mode. Between star camera readings, knowledge is provided by dual redundant Miniature Inertial Measurement Unit (MIMU) from Honeywell. Each unit contains three solid-state gyroscopes and three accelerometers. Two Adcole Sun sensors provide attitude control. One detects angle to the Sun while the other measures spin rate and clocking.
+
+
+Power
+
+A cylindrical radioisotope thermoelectric generator (RTG), protrudes from one vertex in the plane of the triangle. The RTG will provide about 7002250000000000000♠250 W, 30 V DC at launch, and is predicted to drop approximately 5% every 4 years, decaying to 7002200000000000000♠200 W by the encounter with the Plutonian system in 2015. The RTG, model "GPHS-RTG," was originally a spare from the Cassini mission. The RTG contains 11 kg (24 lb) of plutonium-238 oxide pellets. Each pellet is clad in iridium, then encased in a graphite shell. It was developed by the U.S. Department of Energy at the Materials and Fuels Complex (formerly Argonne West), a part of the Idaho National Laboratory in Bingham County, near the town of Arco and the city of Idaho Falls.[13] Less than the original design goal was produced because of delays at the United States Department of Energy, including security activities, that held up production. The mission parameters and observation sequence had to be modified for the reduced wattage; still, not all instruments can operate simultaneously. The Department of Energy transferred the space battery program from Ohio to Argonne in 2002 because of security concerns. There are no onboard batteries. RTG output is relatively predictable; load transients are handled by a capacitor bank and fast circuit breakers.
+
+The use of a plutonium RTG battery was opposed by about 30 anti-nuclear protesters in demonstrations some days before launch. The amount of radioactive plutonium in the RTG is 10.9 kg (24 lb), about one-third the amount on board the Cassini–Huygens probe when it launched in 1997. That launch was protested by a number of people. The United States Department of Energy estimated the chances of a launch accident that would release radiation into the atmosphere at 1 in 350, and monitored the launch[14] as it always does when RTGs are involved. It was believed that a worst-case scenario of total dispersal of on-board plutonium would spread the equivalent radiation of 80% the average annual dosage in North America from background radiation over an area with a radius of 105 km (65 mi).[15]
+
+
+Telecommunications and data handling
+
+Communication with the spacecraft is via X band. The craft had a communication rate of 7004380000000000000♠38 kbit/s at Jupiter, however, at Pluto's distance, a rate of approximately 7003100000000000000♠1 kbit/s is expected. Besides the low bandwidth, Pluto's distance also causes a (one-way) latency of about 4.5 hours. The 70 m (230 ft) Deep Space Network (DSN) dishes will be used to relay data beyond Jupiter. The spacecraft uses dual redundant transmitters and receivers, and either right- or left-hand circular polarization. The downlink signal is amplified by dual redundant 12-watt TWTAs (traveling-wave tube amplifiers) mounted on the body under the dish. The receivers are new, low-power designs. The system can be controlled to power both TWTAs at the same time, and transmit a dual-polarized downlink signal to the DSN that could almost double the downlink rate. Initial tests with the DSN in this dual-polarized mode have been successful, and an effort to make the DSN polarization-combining technique operational is underway.
+
+
+In addition to the high-gain antenna, there are two low-gain antennas and a medium-gain dish. The high-gain dish has a Cassegrain layout, composite construction, and a 2.1-meter (7 ft) diameter (providing well over 7001400000000000000♠40 Decibel of gain, and a half-power beam width of about a degree). The prime-focus, medium-gain antenna, with a 0.3-meter (1 ft) aperture and 10° half-power beamwidth, is mounted to the back of the high-gain antenna's secondary reflector. The forward low-gain antenna is stacked atop the feed of the medium-gain antenna. The aft low-gain antenna is mounted within the launch adapter at the rear of the spacecraft. This antenna was used only for early mission phases near Earth, just after launch and for emergencies if the spacecraft had lost attitude control.
+
+New Horizons will record scientific instrument data to its solid-state buffer at each encounter, then transmit the data to Earth. Data storage is done on two low-power solid-state recorders (one primary, one backup) holding up to 7000800000000000000♠8 Gigabytes each. Because of the extreme distance from Pluto and the Kuiper belt, only one buffer load at those encounters can be saved. This is because New Horizons will have left the vicinity of Pluto (or future target object) by the time it takes to transmit the buffer load back to Earth.
+
+Part of the reason for the delay between the gathering and transmission of data is because all of the New Horizons instrumentation is body-mounted. In order for the cameras to record data, the entire probe must turn, and the one-degree-wide beam of the high-gain antenna will almost certainly not be pointing toward Earth. Previous spacecraft, such as the Voyager program probes, had a rotatable instrumentation platform (a "scan platform") that could take measurements from virtually any angle without losing radio contact with Earth. New Horizons' elimination of excess mechanisms was implemented to save weight, shorten the schedule, and improve reliability to achieve a 15+-year lifetime.
+
+(The Voyager 2 spacecraft experienced platform jamming at Saturn; the demands of long time exposures at Uranus led to modifications of the mission such that the entire probe was rotated to achieve the time exposure photos at Uranus and Neptune, similar to how New Horizons will rotate.)
+
+
+Flight computer
+
+The spacecraft carries two computer systems, the Command and Data Handling system and the Guidance and Control processor. Each of the two systems is duplicated for redundancy, for a total of four computers. The processor used is the Mongoose-V, a 12 MHz radiation-hardened version of the MIPS R3000 CPU. Multiple clocks and timing routines are implemented in hardware and software to help prevent faults and downtime.
+
+To conserve heat and mass, spacecraft and instrument electronics are housed together in IEMs (Integrated Electronics Modules). There are two redundant IEMs. Including other functions such as instrument and radio electronics, each IEM contains 9 boards.
+
+On 19 Mar 2007 the Command and Data Handling computer experienced an uncorrectable memory error and rebooted itself, causing the spacecraft to go into safe mode. The craft fully recovered within two days, with some data loss on Jupiter's magnetotail. No impact on the subsequent mission is expected.[16]
+
+
+Mission science
+
+The spacecraft carries seven scientific instruments. Total mass is 31 kg (68 lb) and rated power is 7001210000000000000♠21 watts (though not all instruments operate simultaneously).[17]
+
+
+Mission timeline
+
+Launch
+
+On 24 September 2005 the spacecraft arrived at the Kennedy Space Center on board a C-17 Globemaster III for launch preparations.[21] The launch of New Horizons was originally scheduled for 11 Jan 2006, but was initially delayed until 17 Jan to allow for borescope inspections of the Atlas V's kerosene tank. Further delays related to low cloud ceiling conditions downrange, and high winds and technical difficulties—unrelated to the rocket itself—prevented launch for a further two days.[22][23] The probe finally lifted off from Pad 41 at Cape Canaveral Air Force Station, Florida, directly south of Space Shuttle Launch Complex 39, at 14:00 EST on 19 Jan 2006.[24][25]
+
+
+The Centaur second stage reignited at 14:30 EST (19:30 UTC), successfully sending the probe on a solar-escape trajectory. New Horizons took only nine hours to reach the Moon's orbit, passing lunar orbit before midnight EST that day.
+
+Although there were backup launch opportunities in Feb 2006 and Feb 2007, only the first twenty-three days of the 2006 window permitted the Jupiter fly-by. Any launch outside that period would have forced the spacecraft to fly a slower trajectory directly to Pluto, delaying its encounter by 2–4 years.
+
+The craft was launched by a Lockheed Martin Atlas V 551 rocket, with an ATK Star 48B third stage added to increase the heliocentric (escape) speed. This was the first launch of the 551 configuration of Atlas V, and the first Atlas V with an additional third stage (Atlas V's usually do not have a third stage). Previous flights had used none, two, or three solid boosters, but never five. This puts the Atlas V 551 take-off thrust at well over 8.9 MN (2,000,000 lbf), surpassing even that of the Delta IV Heavy.
+
+The major part of the thrust is supplied by the Russian RD-180 engine, providing 4.152 MN (933,000 lbf). The Delta IV-H remains the larger vehicle, at over 730,000 kg (1.6 million lb) compared to 570,000 kg (1.26 million lb) of the AV-010. The Atlas V rocket had earlier been slightly damaged when Hurricane Wilma swept across Florida on 24 Oct 2005. One of the solid rocket boosters was hit by a door. The booster was replaced with an identical unit, rather than inspecting and requalifying the original.[26]
+
+
+The Star 48B third-stage is also on a hyperbolic Solar System escape trajectory, and reached Jupiter before the New Horizons spacecraft.  However, since it is not in controlled flight, it did not receive the correct gravity assist, and will only pass within 200 million km (120 million mi) of Pluto.[27]
+
+New Horizons is often given the title of Fastest Spacecraft Ever Launched, although  the Helios probes are arguably the holders of that title as a result of speed gained while falling toward the Sun.  New Horizons, however, achieved the highest launch speed and thus left Earth faster than any other spacecraft to date. It is also the first spacecraft launched directly into a solar escape trajectory, which requires an approximate speed of 16.5 km/s (59,000 km/h; 37,000 mph), plus losses, all to be provided by the launcher. But it is not the fastest spacecraft to leave the Solar System. This record is held by Voyager 1, currently travelling at 17.145 km/s (61,720 km/h; 38,350 mph) relative to the Sun. Voyager 1 attained greater hyperbolic excess velocity from Jupiter and Saturn gravitational slingshots than New Horizons. Other spacecraft, such as the Helios probes, can also be measured as the fastest objects, due to their orbital speed relative to the Sun at perihelion. However, because they remain in solar orbit, their orbital energy relative to the Sun is lower than the five probes, and three other third-stages on hyperbolic trajectories, including New Horizons, that have achieved solar escape velocity, as the Sun has a much deeper gravitational well than Earth.
+
+
+The launch was dedicated to the memory of launch conductor Daniel Sarokon, who was described by space program officials as one of the most influential people in the history of space travel.[28]
+
+
+Trajectory corrections and 132524 APL
+
+On 28 and 30 Jan 2006, mission controllers guided the probe through its first trajectory correction maneuver (TCM), which was divided into two parts (TCM-1A and TCM-1B). The total velocity change of these two corrections was about 18 meters per second (65 km/h; 40 mph). TCM-1 was accurate enough to permit the cancellation of TCM-2, the second of three originally scheduled corrections.[29]
+
+During the week of 20 Feb, controllers conducted initial in-flight tests of three onboard science instruments, the Alice ultraviolet imaging spectrometer, the PEPSSI plasma-sensor, and the LORRI long-range visible-spectrum camera. No scientific measurements or images were taken, but instrument electronics, and in the case of Alice, some electromechanical systems were shown to be functioning correctly.[30]
+
+On 9 Mar 2006 at 17:00 UTC, controllers performed TCM-3, the last of three scheduled course corrections. The engines burned for 76 seconds, adjusting the spacecraft's velocity by about 1.16 m/s (4.2 km/h; 2.6 mph).[31]
+
+On 7 Apr 2006 at 10:00 UTC, the spacecraft passed the orbit of Mars, moving at roughly 21 km/s (76,000 km/h; 47,000 mph) away from the Sun at a solar distance of 243 million kilometers.[32][33]
+
+Because of the need to conserve fuel for possible encounters with Kuiper belt objects subsequent to the Pluto flyby, intentional encounters with objects in the asteroid belt were not planned. After launch, the New Horizons team scanned the spacecraft's trajectory to determine if any asteroids would, by chance, be close enough for observation. In May 2006 it was discovered that New Horizons would pass close to the tiny asteroid 132524 APL on 13 Jun 2006. Closest approach occurred at 4:05 UTC at a distance of 101,867 km (63,297 mi). The asteroid was imaged by Ralph (use of LORRI was not possible due to proximity to Sun), which gave the team a chance to exercise Ralph's capabilities, and make observations of the asteroid's composition as well as light and phase curves. The asteroid was estimated to be 2.5 km (1.6 mi) in diameter.[34][35][36] The spacecraft successfully tracked the asteroid over 10–12 Jun 2006. This allowed the mission team to test the spacecraft's ability to track rapidly moving objects. Images were obtained through the Ralph telescope.[37]
+
+On 25 Sep 2007 at 16:04 EDT, the engines were fired for 15 minutes and 37 seconds, changing the spacecraft's velocity by 2.37 m/s (8.5 km/h; 5.3 mph).[38] On 30 Jun 2010 on 7:49 EDT, mission controllers executed a fourth TCM on New Horizons that lasted 35.6 seconds.[39]
+
+
+Jupiter encounter
+
+New Horizons used LORRI to take its first photographs of Jupiter on 4 September 2006 from a distance of 291 million kilometers (181 million miles).[40] More detailed exploration of the system began in January 2007 with an infrared image of the moon Callisto as well as several black and white images of the planet itself.[41] New Horizons received a Jupiter gravity assist with a closest approach at 05:43:40 UTC on 28 February 2007 when it was 2.3 million kilometers (1.4 million miles) from the planet. The flyby increased New Horizons' speed by 4 km/s (14,000 km/h; 9,000 mph) accelerating the probe 23 km/s (83,000 km/h; 51,000 mph) relative to the Sun and shortening its voyage to Pluto by three years.[42]
+
+The flyby was the center of a 4-month intensive observation campaign lasting from January to June. Being an ever-changing scientific target, Jupiter was observed intermittently since the end of the Galileo mission. Knowledge about the planet benefited from the fact that New Horizons instruments were built using the latest technology, especially in the area of cameras, representing a significant improvement over Galileo's cameras, which were evolved versions of Voyager cameras which, in turn, were evolved Mariner cameras. The Jupiter encounter also served as a shakedown and dress rehearsal for the Pluto encounter. Because of the much shorter distance from Jupiter to Earth, the communications link can transmit multiple loadings of the memory buffer; thus the mission actually returned more data from the Jovian system than it is expected to transmit from Pluto.[43]
+
+One of the main goals during the Jupiter encounter was observing the planet's atmospheric conditions and analyzing the structure and composition of its clouds. Heat induced lightning strikes in the polar regions and "waves" that indicate violent storm activity were observed and measured. The Little Red Spot, spanning up to 70% of Earth's diameter, was imaged from up close for the first time.[42]
+
+Observing from different angles and illumination conditions New Horizons took detailed images of Jupiter's faint ring system discovering debris left over from recent collisions within the rings or from some other unexplained phenomena. The search for undiscovered moons within the rings showed no results. Travelling through the planet's magnetosphere New Horizons collected valuable particle readings.[42] "Bubbles" of plasma which are believed to be formed from material ejected by the moon Io were noticed in the magnetotail.[44]
+
+
+Jovian moons
+
+The major (Galilean) moons were in poor position; the aim of the gravity-assist maneuver meant the spacecraft passed millions of kilometers from any of the Galilean moons. Still, the New Horizons instruments were intended for small, dim targets, so they were scientifically useful on large, distant moons.  Emphasis was put on Io, whose active volcanoes shoot out tons of material into the planetary magnetosphere, and further. Out of 11 observed eruptions, three were seen for the first time while that of the volcano Tvashtar rose up to an altitude of 330 kilometers. The event gave scientists an unprecedented look into the structure and motion of the rising plume and its subsequent fall back to the surface. Infrared signatures of a further 36 volcanoes were noticed.[42] Callisto's surface was analyzed with LEISA, revealing how lighting and viewing conditions affect infrared spectrum readings of its surface water ice.[45] Minor moons such as Amalthea had their orbit solutions refined. The cameras determined their position, acting as "reverse optical navigation".
+
+
+Hibernation and the route to Pluto
+
+After passing Jupiter, New Horizons has spent most of its journey towards Pluto in hibernation mode: redundant components as well as guidance and control systems are shut down to extend their life cycle, decrease operation costs and free the Deep Space Network for other missions.[46] During hibernation mode, the onboard computer monitors the probe's systems and transmits a signal back to Earth: a "green" code if everything is functioning as expected or a "red" code if the mission control's assistance is needed.[46] The probe will be activated for about two months a year so that the instruments can be calibrated and the systems checked. The first hibernation mode cycle started on 28 June 2007.,[46] the second cycle took place on 16 December 2008,[47]  the third cycle on 27 August 2009,[48] and the fourth cycle on 29 August 2014 after a 10 week test.[49]
+
+New Horizons crossed the orbit of Saturn on 8 June 2008,[50] and Uranus on 18 March 2011.[51] After astronomers announced the discovery of two new moons in the Pluto system, Kerberos and Styx, mission planners started contemplating the possibility of the probe running into unseen debris and dust left over from earlier collisions with the moons. A study based on 18 months of computer simulations, Earth-based telescope observations and occultations of the Pluto system revealed that the possibility of a catastrophic collision with debris or dust is less than 0.3% if the probe is to continue on its present course.[52][53] If the hazard increases, New Horizons will use one of two possible contingency plans, the so-called SHBOTs (Safe Haven by Other Trajectories): the probe could continue on its present trajectory with the antenna facing the incoming particles so the more vital systems would be protected, or, it could position its antenna and make a course correction that would take it just 3000 km from the surface of Pluto where it's expected that the atmospheric drag cleaned the surrounding space of possible debris.[53]
+
+While in hibernation mode in July 2012, New Horizons started gathering scientific data with SWAP, PEPSSI and SDC. Although it was originally planned to activate just SDC, other instruments were powered on the initiative of principal investigator Alan Stern who believed they could use the opportunity to collect valuable heliospheric data. Before activating the other two instruments, ground tests were conducted to make sure that the expanded data gathering in this phase of the mission won't limit available energy, memory and fuel in the future and that all systems will be functioning during the flyby.[54] The first set of data was transmitted in January 2013 during a three week activation from hibernation. A new command and data handling software was also uploaded to address the problem of computer resets.[55]
+
+
+Pluto approach
+
+The first images of Pluto from New Horizons were acquired between 21–24 September 2006, during a test of the LORRI. They were released on 28 November.[57] The images, taken from a distance of approximately 4.2bn km (2.6bn mi), confirmed the spacecraft's ability to track distant targets, critical for maneuvering toward Pluto and other Kuiper belt objects. Images from 1st to 3rd July 2013 by LORRI were the first by the probe to resolve Pluto and Charon as separate objects.[58]
+
+New Horizons is scheduled to make long-range observations of a small Kuiper belt object, temporarily designated VNH0004, in January 2015, before the Pluto flyby.  The object will be too distant to resolve surface features or take spectroscopy, but it will be able to make observations that cannot be made from Earth, namely a phase curve and a search for small moons.  A second object will be observed in June, and a third in September, after the flyby; the team hopes to observe a dozen such objects through 2018.[59]
+
+New Horizons is intended to fly within 10,000 km (6,200 mi) of Pluto. New Horizons will have a relative velocity of 13.78 km/s (49,600 km/h; 30,800 mph) at closest approach, and will come as close as 27,000 km (17,000 mi) to Charon, although these parameters may be changed during flight. New Horizons' best spatial resolution of the small satellites is: 460m/pixel at Nix, 1.1 km/pixel at Hydra, 3.2 km/pixel at Kerberos, and 3.2 km/pixel at Styx. Estimates for the sizes of these bodies (assuming albedo 0.35) are Hydra 60 km, Nix 45 km, Kerberos 13 km, Styx 10 km. This translates to ~55, ~95, ~4, and ~3 pixels across Hydra, Nix, Kerberos and Styx, respectively.
+
+On 14 July 2014, mission controllers performed a sixth trajectory correction maneuver (TCM) since its launch to enable the craft to reach Pluto at the mission specific time on 14 July 2015.[60] Between 19-24 July 2014, New Horizons' LORRI snapped 12 images of Charon revolving around Pluto, covering almost one full rotation, in preparation for its historic encounter.
+
+On 6 December 2014, mission controllers sent a signal for the craft to "wake up" from hibernation and to begin regular operations. The craft's response that it was "awake" arrived to Earth at 9:30 PM EST.[61] Distant-encounter operations are planned to begin on January 4, 2015.
+
+
+Kuiper-belt mission
+
+After passing by Pluto, New Horizons will continue farther into the Kuiper belt. Mission planners searched for one or more additional Kuiper belt objects (KBOs) of the order of 50–100 km (31–62 mi) in diameter for as targets for flybys similar to the spacecraft's Plutonian encounter. Because maneuvering capability is limited, this phase of the mission is contingent on the presence of suitable KBOs close to New Horizons' flight path, ruling out any possibility for a flyby of Eris, a trans-Neptunian object comparable in size to Pluto.[62] The available region, being fairly close to the plane of the Milky Way and thus difficult to survey for dim objects, is one that was not well-covered by previous KBO search efforts.
+
+In 2011 a dedicated search for a suitable KBO using ground telescopes was started. The search relied mainly on the 8.2-meter Subaru Telescope in Hawaii and the 6.5-meter Magellan Telescopes in Chile.[63] The public helped to scan telescopic images for possible mission candidates by participating in the Ice Hunters project, although that project is now finished.[64][65] The ground-based search resulted in the discovery of about 50 new KBOs, but none of these are close enough to the flight path of New Horizons.[63]
+
+In June 2014 a search using Hubble was started. Hubble has a much greater ability to find suitable KBOs than ground telescopes. The probability that a target for New Horizons would be found was estimated beforehand at about 95%.[66] On 15 October 2014, it was revealed that Hubble's search had uncovered three potential targets,[67][68][69] provisionally designated PT1, PT2 and PT3 by the New Horizons team. All are objects with estimated diameters in the 30–55 km range, too small to be sighted by ground telescopes, at distances from the Sun of 43–44 AU, which would put the encounters in the 2018–2019 time frame.[67] The initial estimated probabilities that these objects are reachable within New Horizons' fuel budget are 100%, 97% and 7%, respectively.[67] PT1 (designated 1110113Y on the HST web site[70]), the most favorably situated object, is a member of the "cold" (low-inclination, low-eccentricity) classical Kuiper belt, magnitude 26.8, 30–45 km in diameter, and would be encountered around January 2019. A trajectory to reach it would require about 35% of New Horizons' available delta-v budget.[67]
+
+
+Key mission dates
+
+Pluto flyby
+
+Distance-encounter operations at Pluto, with the onboard LORRI imager plus Ralph telescope, will begin January 4, 2015.[95] The targets will be only a few pixels across. 70 days out (May 5, 2015), resolution will exceed the Hubble's resolution,[75] lasting another two weeks after the flyby. This should detect any rings or any additional moons (eventually down to 2 km diameter), for avoidance and targeting maneuvers, and observation scheduling. Long-range imaging will include 40 km (25 mi) mapping of Pluto and Charon 3.2 days out. This is half the rotation period of Pluto–Charon and will allow imaging of the side of both bodies that will be facing away from the spacecraft at closest approach. Coverage will repeat twice per day, to search for changes due to snows or cryovolcanism. Still, due to Pluto's tilt and rotation, a portion of the northern hemisphere will be in shadow at all times.
+
+
+During the flyby, LORRI should be able to obtain select images with resolution as high as 50 m/px (if closest distance is around 10,000 km), and MVIC should obtain 4-color global dayside maps at 1.6 km resolution. LORRI and MVIC will attempt to overlap their respective coverage areas to form stereo pairs. LEISA will obtain hyperspectral near-infrared maps at 7 km/px globally and 0.6 km/pixel for selected areas. Meanwhile, Alice will characterize the atmosphere, both by emissions of atmospheric molecules (airglow), and by dimming of background stars as they pass behind Pluto (occultation).
+
+
+During and after closest approach, SWAP and PEPSSI will sample the high atmosphere and its effects on the solar wind. VBSDC will search for dust, inferring meteoroid collision rates and any invisible rings. REX will perform active and passive radio science. Ground stations on Earth will transmit a powerful radio signal as New Horizons passes behind Pluto's disk, then emerges on the other side. The communications dish will measure the disappearance and reappearance of the radio occultation signal. The results will resolve Pluto's diameter (by their timing) and atmospheric density and composition (by their weakening and strengthening pattern). (Alice can perform similar occultations, using sunlight instead of radio beacons.) Previous missions had the spacecraft transmit through the atmosphere, to Earth ("downlink"). Low power and extreme distance means New Horizons will be the first such "uplink" mission. Pluto's mass and mass distribution will be evaluated by their tug on the spacecraft. As the spacecraft speeds up and slows down, the radio signal will experience a Doppler shift. The Doppler shift will be measured by comparison with the ultrastable oscillator in the communications electronics.
+
+Reflected sunlight from Charon will allow some imaging observations of the nightside. Backlighting by the Sun will highlight any rings or atmospheric hazes. REX will perform radiometry of the nightside.
+
+Initial, highly-compressed images will be transmitted within days. The science team will select the best images for public release. Uncompressed images will take about nine months[citation needed] to transmit, depending on Deep Space Network traffic. It may turn out, however, that fewer months will be needed. The spacecraft link is proving stronger than expected, and it is possible that both downlink channels may be ganged together to nearly double the data rate.
+
+
+Loss of any of these objectives will constitute a failure of the mission.
+
+
+It is expected, but not demanded, that most of these objectives will be met.
+
+
+These objectives may be attempted, though they may be skipped in favor of the above objectives. An objective to measure any magnetic field of Pluto was dropped. A magnetometer instrument could not be implemented within a reasonable mass budget and schedule, and SWAP and PEPSSI could do an indirect job detecting some magnetic field around Pluto.
+
+
+Neptune trojans
+
+Other possible targets were Neptune trojans. The probe's trajectory to Pluto passed near Neptune's trailing Lagrange point ("L5"), which may host hundreds of bodies in 1:1 resonance with the planet. In late 2013,  New Horizons passed within 1.2 AU (180,000,000 km; 110,000,000 mi) of the large, high-inclination L5 Neptune trojan 2011 HM102,[97] which was identified shortly before by the New Horizons KBO Search Survey team while searching for more distant objects for New Horizons to fly by after its 2015 Pluto encounter. At that range, 2011 HM102 would have been bright enough to be detectable by New Horizons' LORRI instrument. However, the 2011 HM102 flyby came shortly before the Pluto encounter. At that time, New Horizons may not have had significant downlink bandwidth, and thus free memory, for trojan encounter data.[98] The New Horizons team eventually decided that they would not target 2011 HM102 for observations (as the preparations for the Pluto approach took precedence).[99]
+
+
+Kuiper belt objects
+
+New Horizons is designed to fly past one or more Kuiper belt objects (KBOs) after passing Pluto. Because the flight path is determined by the Pluto flyby, with only minimal hydrazine remaining, objects must be found within a cone, extending from Pluto, of less than a degree's width, within 55 AU. Past 55 AU, the communications link becomes too weak, and the RTG wattage will have decayed significantly enough to hinder observations. Desirable KBOs will be well over 50 km (31 mi) in diameter, neutral in color (to compare with the reddish Pluto), and, if possible, possess a moon. Because the population of KBOs appears quite large, multiple objects may qualify. Large ground telescopes with wide-field cameras, notably the twin Magellan Telescopes, the Subaru Observatory and the Canada-France-Hawaii Telescope[97] are being used to search for potential targets up until the Pluto flyby; the Pluto aim point, plus subsequent thruster firing, will then determine the post-Pluto trajectory. The citizen science project Ice Hunters has aided in the search for a suitable object.[101][102][103] With the completion of the Ice Hunters project, 143 KBO's of potential interest have been found,[104] but as of  May 2014[update] all are out of range for New Horizons. Only the Hubble Space Telescope is likely to find a suitable target in time for a successful KBO mission.[105] As of 2014 June 16, time on Hubble has been granted.[106]
+
+An extension of the project, Ice Investigators, is being launched.[107] KBO flyby observations will be similar to those at Pluto, but reduced due to lower light, power, and bandwidth. On August 21, 2012, the New Horizons team announced on their Twitter feed that they will attempt distant observations of the object VNH0004 in January 2015 just before the Pluto encounter, at a distance of 75 gigameters (0.50 AU).[59]
+
+In August 2013, it was proposed[108] to use the radio-tracking data from New Horizons to put constraints on the position of a hypothesized trans-Neptunian planetary-sized body.[109]
+
+On October 15, 2014, NASA announced finding several KBOs that may be targeted by the New Horizons spacecraft, presently expected to perform a flyby of the Pluto system on July 14, 2015.[100]
+
+
+Heliosphere
+
+Provided it survives that far out, New Horizons is likely to follow the Voyager probes in exploring the outer heliosphere and mapping the heliosheath and heliopause. The heliopause might be reached around year 2047.[110]
+
+Even though it was launched far faster than any outward probe before it, New Horizons will never overtake either Voyager 1  or Voyager 2, as the most distant human-made object from Earth. Close fly-bys of Saturn and Titan gave Voyager 1 an advantage with its extra gravity assist. When New Horizons reaches the distance of 7013149597870700000♠100 AU, it will be travelling at about 13 km/s (29,000 mph), around 4 km/s (8,900 mph) slower than Voyager 1 at that distance.[94]
+
+
+Current status
+
+The latest news and photos from the probe can be viewed at NASA's Web site.
+
+New Horizons successfully awoke from hibernation on December 6, 2014.[90]
+
+As of January 1, 2015, New Horizons will be about:
+
+
+The spacecraft traveled at 14.6 km/s (33,000 mph) or about 3.0 AU per year (relative to the Sun). Radio signals take more than 4 hours to travel to the spacecraft from Earth.[111]
+
+The brightness of the Sun from the spacecraft is magnitude −19.3.[112] New Horizons is heading in the direction of the constellation Sagittarius.[112] The mission is expected to end after visiting one or two other Kuiper belt objects.[93]
+
+
+See also
+
+References
+
+Further reading
+
+Guo, Y.; Farquhar, R. W. (2005). "New Horizons Pluto–Kuiper Belt mission: design and simulation of the Pluto–Charon encounter" (PDF). Acta Astronautica. 56 (3): 421–429. doi:10.1016/j.actaastro.2004.05.076.
+
+
+External links
+
+Official websites
+
+
+Citizen Science
+
+
+Press Coverage
+
+
+Other
+
